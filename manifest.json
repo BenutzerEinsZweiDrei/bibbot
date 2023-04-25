@@ -14,9 +14,7 @@
   "permissions": [
     "tabs",
     "storage",
-    "https://*.genios.de/*"
-  ],
-  "optional_permissions": [
+    "https://*.genios.de/*",
     "https://www.munzinger.de/*",
     "https://www.voebb.de/*",
     "https://www.wiso-net.de/*",
@@ -29,6 +27,9 @@
     "https://login.slub-dresden.de/*",
     "https://www-wiso-net-de.wwwdb.dbod.de/*",
     "https://*.bsb-muenchen.de/*"
+  ],
+  "optional_permissions": [
+
   ],
   "background": {
     "scripts": [
