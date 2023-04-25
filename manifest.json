@@ -117,11 +117,11 @@
       "1024": "icons/bibbot-mono-1024.png"
     },
     "default_popup": "popup/popup.html",
-    "default_title": "BibBot"
+    "default_title": "Bibnightly"
   },
   "browser_specific_settings": {
     "gecko": {
-      "id": "voebbot@stefanwehrmeyer.com",
+      "id": "this@werwiewas.de",
       "strict_min_version": "57.0"
     }
   }
